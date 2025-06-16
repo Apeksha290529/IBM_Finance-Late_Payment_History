@@ -13,31 +13,32 @@ This project involves analysis of IBM's Accounts Receivable dataset using Python
 
 ### 📊 Key Insights:
 
-#### 🌍 *Customer Distribution by Country*-
+#### 🌍 *Customer Distribution by Country*
 Country code *391* has the highest number of customers (616), followed by *406* and *770*.
 
-#### 💰 *Invoice Analysis*-
+#### 💰 *Invoice Analysis*
 * Average *Invoice Amount* is *\~\$59.90*.
 * *Country 406* shows the *highest invoice amount* (\$70.27), while *897* is the lowest (\$41.28).
 
-#### ⏳ *Settlement Time*-Overall average -
+#### ⏳ *Settlement Time*
+*Overall average 
 *Days to Settle:**\~26.44 days*
 * *Country 818* takes the longest time (\~28.80 days)
 * *Customer 2621-XCLEH* has the *highest individual average*: \~49.5 days
 
-#### 🕒 *Payment Delays (Days Late)*-
-*Overall average *Days Late*
+#### 🕒 *Payment Delays (Days Late)*
+*Overall average*Days Late*
 *\~3.44 days
 * Country *818* is the *slowest* (\~4.82 days)
 * Customers like *0187-ERLSR* have *0 days delay*
 
-#### ⚠ *Disputed Invoices*-
+#### ⚠ *Disputed Invoices*
 Disputed invoices* are paid *much later* than non-disputed ones.
 
-#### 🧾 *Paperless Billing*-
+#### 🧾 *Paperless Billing*
 Customers using *paperless billing* show *fewer delays*, indicating higher efficiency.
 
-#### 📅 *Monthly Trends*-
+#### 📅 *Monthly Trends*
 Invoices show *regular monthly distribution, with some **seasonal peaks* noticeable.
 
 ---
