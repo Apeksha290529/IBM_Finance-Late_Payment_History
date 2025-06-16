@@ -9,12 +9,6 @@ IBM is a global technology and consulting company. It's a major player in hybrid
 ## 🎯 Project Overview :
 This project involves analysis of IBM's Accounts Receivable dataset using Python to study customer payment behavior across countries.
 
-
- ## **🛠️ Tools & Technologies Used** :
-   ![image](python_logo.jpg)
-
-- Database – Source of IBM Finance Factoring - Late Payment Histories" dataset
-
 ---
 
 ### 📊 Key Insights:
@@ -66,3 +60,9 @@ Country code *391* has the highest number of customers (616), followed by *406* 
 
 #### 📈 *Forecasting and Planning*-
 * Use *invoice trends* for *cash flow forecasting* and better *financial planning*.
+
+
+## **🛠️ Tools & Technologies Used** :
+   ![image](python_logo.jpg)
+
+- Database – Source of IBM Finance Factoring - Late Payment Histories" dataset
