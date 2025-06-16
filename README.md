@@ -67,7 +67,7 @@ This schema represents a banking system, which includes:
 
 
  ## **🛠️ Tools & Technologies Used** :
-   ![image](desktop-wallpaper-6-python-programming-python-language(1).jpg)
+   ![image](python_logo.jpg)
 
   
 
