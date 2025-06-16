@@ -4,30 +4,14 @@
 
 ## 📌 Introduction :
 
-A Finance Analyst working for 'The Big Bank' we have been tasked with finding out about our customers and their banking behaviour. Examine the accounts they hold and the type of transactions they make to develop greater insight into our customers.
-
+IBM is a global technology and consulting company. It's a major player in hybrid cloud, AI, and consulting services.A Data Analyst working on "Finance Factoring - IBM Late Payment Histories" dataset. we have been tasked with finding about our customers and their payment behaviour.
 ## 🎯 Project Overview :
 
 
  ## **🛠️ Tools & Technologies Used** :
    ![image](python_logo.jpg)
 
-  
-
-- BANK Database – Source of banks data
-
----
-
-
-Here’s a concise *Project Overview, **Key Insights, and **Recommendations* based on the IBM Accounts Receivable dataset analysis provided in your project:
-
----
-
-### 📘 *Project Overview*
-
-
- 
-Of course! Here's your complete summary with each point having a matching emoji for better visual clarity and presentation:
+- Database – Source of IBM Finance Factoring - Late Payment Histories" dataset
 
 ---
 
