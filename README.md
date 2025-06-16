@@ -44,7 +44,7 @@ Invoices show *regular monthly distribution, with some **seasonal peaks* noticea
 
 ---
 
-### ✅ *Recommendations*
+### ✅ *Recommendations*:
 
 #### 📨 *Promote Paperless Billing* - Encourage *more customers* to go paperless to *reduce delay* and improve speed.
 
