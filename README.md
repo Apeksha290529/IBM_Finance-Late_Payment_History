@@ -1,6 +1,6 @@
 # IBM_Finance-Late_Payment_History
 
-![sql4](pexels-bacho-grigolia-168233314-16294304.jpg)
+![sql4](pexels-bacho-grigolia-168233314-16294304.jpg) width=1000>
 
 
 ## 📌 Introduction :
