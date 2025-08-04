@@ -55,6 +55,7 @@ Invoices show *regular monthly distribution, with some **seasonal peaks* noticea
 
 #### 📈 *Forecasting and Planning* - Use *invoice trends* for *cash flow forecasting* and better *financial planning*.
 
+---
 
 ## **🛠️ Tools & Technologies Used** :
    ![image](python_logo.jpg)
